@@ -1,0 +1,9 @@
+C:\Users\juanp\Desktop\Reposts\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\juanp\Desktop\Reposts\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\juanp\Desktop\Reposts\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\juanp\Desktop\Reposts\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\juanp\Desktop\Reposts\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\juanp\Desktop\Reposts\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\juanp\Desktop\Reposts\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\Reposts\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\juanp\Desktop\Reposts\Prueba\Prueba\obj\Debug\Prueba.pdb
